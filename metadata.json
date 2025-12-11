@@ -1,0 +1,5 @@
+{
+  "name": "InsureMate Pro",
+  "description": "智能团体保险职业定级与报价助手。利用AI快速识别职业风险类别，自动匹配费率，一键生成投保试算单。",
+  "requestFramePermissions": []
+}
