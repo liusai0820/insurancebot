@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { smartRetrieval, simpleMatch } from '@/lib/occupationMatcher';
-import { aiDecisionWithExamples, AIDecisionResult } from '@/lib/aiDecisionMaker';
+import { aiDecisionWithExamples } from '@/lib/aiDecisionMaker';
 import { OccupationResult } from '@/types';
 
 /**
